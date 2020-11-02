@@ -185,4 +185,4 @@ public class SciCalculator {
             }
         }
     }
-}
+} // GitHub 11/02/2020
